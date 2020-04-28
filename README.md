@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live At : https://kartikeychoudhary.github.io/covid-19-dashboard/
 ## Available Scripts
 
 In the project directory, you can run:
